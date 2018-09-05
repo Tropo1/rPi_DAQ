@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/nitsch/ultibo/core/fpc/bin/fpc" Date="1518523619"/>
+  <Params Value=" -Tultibo -Parm -CpARMV7A -WpRPI3B @/home/nitsch/ultibo/core/fpc/bin/RPI3.CFG -MDelphi -Scghi -CX -O2 -XX -l -vewnhibq -Fi/home/nitsch/ultibo/core/testProjects/DAQ_development_RPi3/lib/arm-ultibo -Fu/home/nitsch/ultibo/core/testProjects/DAQ_development_RPi3/ -FU/home/nitsch/ultibo/core/testProjects/DAQ_development_RPi3/lib/arm-ultibo/ DAQ_development.lpr"/>
+</CONFIG>
